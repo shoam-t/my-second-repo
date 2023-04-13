@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 branch 1 kovez 2
+=======
+kovez 2 brance 2
+>>>>>>> brance-2
